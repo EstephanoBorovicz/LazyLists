@@ -22,7 +22,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.lazylists.components.GameCard
-import com.example.lazylists.repository.getAllGames
 import com.example.lazylists.repository.getGamesByStudio
 
 @Composable
